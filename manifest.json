@@ -1,0 +1,25 @@
+{
+  "short_name": "MyStockfolio",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "images/logo/logo214.png",
+      "type": "image/png",
+      "sizes": "214×56"
+    },
+    {
+      "src": "images/logo/logo428.png",
+      "type": "image/png",
+      "sizes": "428×112"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
